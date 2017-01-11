@@ -1,0 +1,6 @@
+[package]
+name = "rssh"
+version = "0.1.0"
+authors = ["alwesam <alwesam@gmail.com>"]
+
+[dependencies]
